@@ -1,3 +1,4 @@
 git chckout -b
 git log
 git init
+git clone
