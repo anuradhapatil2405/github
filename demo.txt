@@ -1,4 +1,8 @@
+
 git chckout -b
 git log
 git init
 git clone
+git fetch
+git pull
+git push
